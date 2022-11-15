@@ -1,5 +1,13 @@
 ## Matheus Leão
 
+<div align="center">
+  <a href="https://github.com/matheus-leao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-leao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-leao&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+
+
 ### I'm a Software Quality enthusiast, with experience in e2e Testing, Unit, Integration, API, and Performance Testing.
 
 
