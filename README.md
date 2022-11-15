@@ -1,18 +1,17 @@
-### Hi there! Welcome to my Github profile.
-## My name is Matheus Leão.
+## Matheus Leão
+## Software Quality Analyst
 
+- 🔭 I’m currently working on Thomson Reuters.
+- 📚 I’m currently learning Cypress and Test Automation.
+- 💬 Ask me about Web automation with Selenium + C# and Api Testing.
 
-<!--
-**matheus-leao/matheus-leao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### How to reach me:
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-MateusLeao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateuslouback/)](https://www.linkedin.com/in/matheus-leão-920a7011b/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <br>
+    <p align="left"><b>Visitors Count</b></p>  
+    <p align="left"><img align="left" src="https://profile-counter.glitch.me/{matheus-leao}/count.svg" /></p> 
+  <br>
+</div>
