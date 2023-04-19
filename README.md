@@ -9,9 +9,9 @@
 
 ## I'm a Software Quality enthusiast, with experience in e2e Testing, Unit, Integration, API, and Performance Testing.
 
-- 🔭 I’m currently working on Thomson Reuters.
-- 📚 I’m currently learning Cypress and Test Automation.
-- 💬 Ask me about Web automation with Selenium + C# and Api Testing.
+- 🔭 I’m currently working on Tateeda.
+- 📚 I’m currently learning Appium and Mobile Automation.
+- 💬 Ask me about Web automation with Selenium + C#, Cypress and Api Testing.
 
 ## How to reach me:
 
