@@ -45,10 +45,3 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)
 
 ---
-
-<div align="left">
-  <br>
-    <p align="left"><b>Visitors Count</b></p>  
-    <p align="left"><img align="left" src="https://profile-counter.glitch.me/{matheus-leao}/count.svg" /></p> 
-  <br>
-</div>
